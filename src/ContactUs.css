@@ -1,0 +1,16 @@
+/* 
+==================
+contact-container
+==================
+*/
+.contact-container {
+  margin-inline: auto;
+  max-width: 500px;
+}
+
+.contact-container .contact-heading {
+  font-family: "roboto";
+  font-size: 1.2rem;
+  text-align: center;
+  text-transform: capitalize;
+}
