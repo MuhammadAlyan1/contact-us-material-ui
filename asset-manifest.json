@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contact-us-material-ui/static/css/main.45155a3c.css",
+    "main.js": "/contact-us-material-ui/static/js/main.45ed8365.js",
+    "index.html": "/contact-us-material-ui/index.html",
+    "main.45155a3c.css.map": "/contact-us-material-ui/static/css/main.45155a3c.css.map",
+    "main.45ed8365.js.map": "/contact-us-material-ui/static/js/main.45ed8365.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45155a3c.css",
+    "static/js/main.45ed8365.js"
+  ]
+}
